@@ -11,6 +11,6 @@
     ],
     "require": {},
     "autoload": {
-        "psr-4": { "Woann\\QueueD\\": "src" }
+        "psr-4": { "QueueD\\": "src" }
     }
 }
