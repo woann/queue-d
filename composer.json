@@ -1,0 +1,16 @@
+{
+    "name": "woann/queue-d",
+    "description": "queue-d is a delay queue based on redis",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "woann",
+            "email": "304550409@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": { "Woann\\QueueD\\": "src" }
+    }
+}
